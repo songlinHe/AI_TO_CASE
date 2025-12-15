@@ -1,0 +1,4 @@
+# 保存路径配置
+paths:
+  # 主要保存目录
+  save_path: '/www/wwwroot'
